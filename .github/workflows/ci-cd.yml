@@ -13,6 +13,3 @@ jobs:
     steps:
       - name: Get the project files
         uses: actions/checkout@v7
-
-      # Run 1: keep only checkout.
-      # At Checkpoint 2, add the test and cleanup steps here.
